@@ -1,0 +1,34 @@
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+    font-family: Arial;
+}
+
+.fun-box {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(45deg, #ff0077, #00d4ff);
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    transition: 0.4s;
+    cursor: pointer;
+
+    Light glow effect */
+    /* box-shadow: 0 0 20px rgba(255, 0, 150, 0.7); */
+/* } */
+
+/* Hover effect */
+/* .fun-box:hover {
+    transform: scale(1.2) rotate(10deg);
+    background: linear-gradient(45deg, #00d4ff, #ff0077); */
+
+    /* Stronger glow */
+    /* box-shadow: 0 0 40px rgba(0, 200, 255, 0.9);
+} */
